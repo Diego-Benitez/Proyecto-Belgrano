@@ -34,12 +34,15 @@
   
   nav {
       position: fixed;
+      margin:1rem;
+      padding:1rem;
+      border-radius: 1rem;
       left: 0;
       z-index: 50;
       display: flex;
       justify-content: space-around;
       flex-direction: column;
-      height: 100vh;
+      height: 95vh;
       background: var(--secondary-color);
   }
   
